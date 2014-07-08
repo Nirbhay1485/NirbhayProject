@@ -1,0 +1,3 @@
+Please User maven command to execute test case or you can test using junit.
+
+maven command: projectPath> mvn clean install
